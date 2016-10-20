@@ -1,1 +1,5 @@
-PRIMEIRA MODIFICAÇÃO
+private String funcao() {
+	return "éoq";
+}
+
+
